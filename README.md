@@ -27,7 +27,9 @@ git clone https://github.com/kemalbekcan/Express-Sequelize.git
 npm & yarn install
 ```
 
-3. Run
+3. Create database named testdb in mysql database
+
+4. Run
 
 ```sh
 1) cd ./Client
